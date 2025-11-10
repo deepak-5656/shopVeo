@@ -156,18 +156,16 @@ export const products = [
   }
 ];
 
-// Categories
 export const categories = [
-  { id: 1, name: "All Products", slug: "all", icon: "🛍️" },
-  { id: 2, name: "Electronics", slug: "electronics", icon: "📱" },
-  { id: 3, name: "Fashion", slug: "fashion", icon: "👗" },
-  { id: 4, name: "Home Decor", slug: "home-decor", icon: "🏡" },
-  { id: 5, name: "Sports", slug: "sports", icon: "⚽" },
-  { id: 6, name: "Accessories", slug: "accessories", icon: "👜" },
-  { id: 7, name: "Food & Beverage", slug: "food-beverage", icon: "🍵" },
+  { id: 1, name: "All Products", slug: "all", icon: "" },
+  { id: 2, name: "Electronics", slug: "electronics", icon: "" },
+  { id: 3, name: "Fashion", slug: "fashion", icon: "" },
+  { id: 4, name: "Home Decor", slug: "home-decor", icon: "" },
+  { id: 5, name: "Sports", slug: "sports", icon: "" },
+  { id: 6, name: "Accessories", slug: "accessories", icon: "" },
+  { id: 7, name: "Food & Beverage", slug: "food-beverage", icon: "" },
 ];
 
-// Reviews
 export const productReviews = [
   {
     id: 1,
@@ -189,7 +187,6 @@ export const productReviews = [
   },
 ];
 
-// Analytics Mock Data
 export const analyticsData = {
   pageViews: 125430,
   bounceRate: 32.5,
@@ -200,12 +197,10 @@ export const analyticsData = {
   ],
 };
 
-//Social Media Posts
 export const socialPosts = {
   facebook: [],
   instagram: [],
   twitter: [],
 };
 
-// AI Keyword Suggestions
 export const aiKeywordSuggestions = [];
