@@ -6,8 +6,6 @@ import {
   FaTwitter,
   FaYoutube,
   FaEnvelope,
-  FaPhone,
-  FaMapMarkerAlt,
   FaHeart,
 } from 'react-icons/fa';
 
