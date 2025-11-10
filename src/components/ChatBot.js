@@ -30,7 +30,7 @@ const ChatBot = () => {
       setTimeout(() => {
         const socialMessage = {
           id: Date.now(),
-          text: "📢 Stay connected with us! Follow ShopSphere for exclusive deals, updates, and more:",
+          text: "📢 Stay connected with us! Follow ShopVio for exclusive deals, updates, and more:",
           sender: 'bot',
           timestamp: new Date(),
           showSocial: true,

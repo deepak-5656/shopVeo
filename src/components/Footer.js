@@ -4,7 +4,7 @@ import {
   FaFacebookF,
   FaInstagram,
   FaTwitter,
-  FaYoutube,
+  FaLinkedin,
   FaEnvelope,
   FaHeart,
 } from 'react-icons/fa';
@@ -53,10 +53,10 @@ const Footer = () => {
       color: 'hover:bg-blue-400',
     },
     {
-      name: 'YouTube',
-      icon: FaYoutube,
-      url: 'https://youtube.com/shopvio',
-      color: 'hover:bg-red-600',
+      name: 'LinkedIn',
+      icon: FaLinkedin,
+      url: 'https://linkedin.com/company/shopvio',
+      color: 'hover:bg-blue-700',
     },
   ];
 

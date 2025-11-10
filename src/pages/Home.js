@@ -8,7 +8,7 @@ import {
   FaHeadset,
   FaArrowRight,
   FaStar,
-  FaFacebook,
+  FaFacebookF,
   FaTwitter,
   FaInstagram,
   FaLinkedin,
@@ -71,24 +71,23 @@ const Home = () => {
                 Discover amazing products at unbeatable prices. Shop the latest trends with exclusive deals up to 70% OFF!
               </p>
               
-              {/* Social Media Follow Section */}
               <div className="mb-6 md:mb-8">
                 <p className="text-sm md:text-base text-white/90 mb-3">
                   Follow us for more updates:
                 </p>
                 <div className="flex gap-3 justify-center md:justify-start">
                   <motion.a
-                    href="https://facebook.com"
+                    href="https://facebook.com/shopvio"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
                     whileTap={{ scale: 0.95 }}
                     className="w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center text-white hover:bg-white hover:text-primary-600 transition-all"
                   >
-                    <FaFacebook size={18} />
+                    <FaFacebookF size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://twitter.com"
+                    href="https://twitter.com/shopvio"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
@@ -98,7 +97,7 @@ const Home = () => {
                     <FaTwitter size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://instagram.com"
+                    href="https://instagram.com/shopvio"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
@@ -108,7 +107,7 @@ const Home = () => {
                     <FaInstagram size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://linkedin.com"
+                    href="https://linkedin.com/company/shopvio"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
