@@ -1,4 +1,4 @@
-﻿// Product Data
+// Product Data
 export const products = [
   {
     id: 1,
