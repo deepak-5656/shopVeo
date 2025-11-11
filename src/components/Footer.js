@@ -47,6 +47,12 @@ const Footer = () => {
       color: 'hover:bg-pink-600',
     },
     {
+      name: 'Twitter',
+      icon: FaTwitter,
+      url: 'https://x.com/deepak963824',
+      color: 'hover:bg-blue-400',
+    },
+    {
       name: 'LinkedIn',
       icon: FaLinkedin,
       url: 'https://www.linkedin.com/in/shop-vio-3a1046309',

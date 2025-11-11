@@ -180,6 +180,14 @@ const ChatBot = () => {
                           <FaInstagram size={14} />
                         </a>
                         <a
+                          href="https://x.com/deepak963824"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="w-8 h-8 bg-[#1DA1F2] rounded-full flex items-center justify-center text-white hover:scale-110 transition-transform"
+                        >
+                          <FaTwitter size={14} />
+                        </a>
+                        <a
                           href="https://www.linkedin.com/in/shop-vio-3a1046309"
                           target="_blank"
                           rel="noopener noreferrer"
