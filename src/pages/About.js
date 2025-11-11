@@ -129,17 +129,6 @@ const About = () => {
               </motion.a>
               
               <motion.a
-                href="https://x.com/shopveo30887"
-                target="_blank"
-                rel="noopener noreferrer"
-                whileHover={{ scale: 1.1, y: -5 }}
-                whileTap={{ scale: 0.95 }}
-                className="w-14 h-14 bg-white rounded-full flex items-center justify-center text-[#1DA1F2] hover:bg-[#1DA1F2] hover:text-white shadow-lg transition-all duration-300"
-              >
-                <FaTwitter size={24} />
-              </motion.a>
-              
-              <motion.a
                 href="https://www.instagram.com/shopvio76/"
                 target="_blank"
                 rel="noopener noreferrer"

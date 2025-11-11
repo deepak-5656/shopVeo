@@ -78,17 +78,6 @@ const WelcomePopup = () => {
                   </motion.a>
 
                   <motion.a
-                    href="https://x.com/shopveo30887"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    whileHover={{ scale: 1.15, y: -5 }}
-                    whileTap={{ scale: 0.95 }}
-                    className="w-11 h-11 sm:w-12 sm:h-12 bg-[#1DA1F2] rounded-full flex items-center justify-center text-white shadow-lg hover:shadow-xl transition-all"
-                  >
-                    <FaTwitter size={18} />
-                  </motion.a>
-
-                  <motion.a
                     href="https://www.instagram.com/shopvio76/"
                     target="_blank"
                     rel="noopener noreferrer"

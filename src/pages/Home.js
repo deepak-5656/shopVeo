@@ -87,16 +87,6 @@ const Home = () => {
                     <FaFacebookF size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://x.com/shopveo30887"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    whileHover={{ scale: 1.15, y: -3 }}
-                    whileTap={{ scale: 0.95 }}
-                    className="w-10 h-10 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center text-white hover:bg-white hover:text-primary-600 transition-all"
-                  >
-                    <FaTwitter size={18} />
-                  </motion.a>
-                  <motion.a
                     href="https://www.instagram.com/shopvio76/"
                     target="_blank"
                     rel="noopener noreferrer"
