@@ -67,7 +67,7 @@ const WelcomePopup = () => {
                 {/* Social Media Icons */}
                 <div className="flex justify-center gap-2 sm:gap-4 mb-4 sm:mb-6 flex-wrap">
                   <motion.a
-                    href="https://facebook.com"
+                    href="https://www.facebook.com/profile.php?id=61583409579716&sk=live_videos"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -5 }}
@@ -78,7 +78,7 @@ const WelcomePopup = () => {
                   </motion.a>
 
                   <motion.a
-                    href="https://twitter.com"
+                    href="https://x.com/shopveo30887"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -5 }}
@@ -89,7 +89,7 @@ const WelcomePopup = () => {
                   </motion.a>
 
                   <motion.a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/shopvio76/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -5 }}
@@ -100,7 +100,7 @@ const WelcomePopup = () => {
                   </motion.a>
 
                   <motion.a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/shop-vio-3a1046309"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -5 }}

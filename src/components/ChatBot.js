@@ -164,7 +164,7 @@ const ChatBot = () => {
                     {message.showSocial && (
                       <div className="flex gap-2 mt-3 justify-center">
                         <a
-                          href="https://facebook.com"
+                          href="https://www.facebook.com/profile.php?id=61583409579716&sk=live_videos"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="w-8 h-8 bg-[#1877F2] rounded-full flex items-center justify-center text-white hover:scale-110 transition-transform"
@@ -172,7 +172,7 @@ const ChatBot = () => {
                           <FaFacebook size={14} />
                         </a>
                         <a
-                          href="https://twitter.com"
+                          href="https://x.com/shopveo30887"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="w-8 h-8 bg-[#1DA1F2] rounded-full flex items-center justify-center text-white hover:scale-110 transition-transform"
@@ -180,7 +180,7 @@ const ChatBot = () => {
                           <FaTwitter size={14} />
                         </a>
                         <a
-                          href="https://instagram.com"
+                          href="https://www.instagram.com/shopvio76/"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="w-8 h-8 bg-gradient-to-r from-[#F58529] via-[#E4405F] to-[#833AB4] rounded-full flex items-center justify-center text-white hover:scale-110 transition-transform"
@@ -188,7 +188,7 @@ const ChatBot = () => {
                           <FaInstagram size={14} />
                         </a>
                         <a
-                          href="https://linkedin.com"
+                          href="https://www.linkedin.com/in/shop-vio-3a1046309"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="w-8 h-8 bg-[#0A66C2] rounded-full flex items-center justify-center text-white hover:scale-110 transition-transform"

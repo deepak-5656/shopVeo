@@ -37,25 +37,25 @@ const Footer = () => {
     {
       name: 'Facebook',
       icon: FaFacebookF,
-      url: 'https://facebook.com/shopvio',
+      url: 'https://www.facebook.com/profile.php?id=61583409579716&sk=live_videos',
       color: 'hover:bg-blue-600',
     },
     {
       name: 'Instagram',
       icon: FaInstagram,
-      url: 'https://instagram.com/shopvio',
+      url: 'https://www.instagram.com/shopvio76/',
       color: 'hover:bg-pink-600',
     },
     {
       name: 'Twitter',
       icon: FaTwitter,
-      url: 'https://twitter.com/shopvio',
+      url: 'https://x.com/shopveo30887',
       color: 'hover:bg-blue-400',
     },
     {
       name: 'LinkedIn',
       icon: FaLinkedin,
-      url: 'https://linkedin.com/company/shopvio',
+      url: 'https://www.linkedin.com/in/shop-vio-3a1046309',
       color: 'hover:bg-blue-700',
     },
   ];

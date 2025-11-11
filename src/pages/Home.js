@@ -77,7 +77,7 @@ const Home = () => {
                 </p>
                 <div className="flex gap-3 justify-center md:justify-start">
                   <motion.a
-                    href="https://facebook.com/shopvio"
+                    href="https://www.facebook.com/profile.php?id=61583409579716&sk=live_videos"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
@@ -87,7 +87,7 @@ const Home = () => {
                     <FaFacebookF size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://twitter.com/shopvio"
+                    href="https://x.com/shopveo30887"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
@@ -97,7 +97,7 @@ const Home = () => {
                     <FaTwitter size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://instagram.com/shopvio"
+                    href="https://www.instagram.com/shopvio76/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
@@ -107,7 +107,7 @@ const Home = () => {
                     <FaInstagram size={18} />
                   </motion.a>
                   <motion.a
-                    href="https://linkedin.com/company/shopvio"
+                    href="https://www.linkedin.com/in/shop-vio-3a1046309"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.15, y: -3 }}
