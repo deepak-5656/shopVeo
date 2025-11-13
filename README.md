@@ -1,4 +1,4 @@
-# ShopSphere - Next-Generation E-Commerce Platform
+# ShopVio - Next-Generation E-Commerce Platform
 
 <div align="center">
   <h3>🛍️ A Modern, Feature-Rich Online Shopping Experience</h3>
