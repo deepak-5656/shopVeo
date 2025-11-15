@@ -8,7 +8,6 @@
 ---
 
 ## ✨ Features
-
 ### 🎨 Design & User Experience
 
 - **Modern, Minimalistic Design** inspired by Shopify's elegance and Meesho's vibrancy
@@ -192,23 +191,7 @@ webproject/
 
 ---
 
-## 🎨 Color Palette
 
-```css
-Primary Purple:
-- 50:  #faf5ff
-- 100: #f3e8ff
-- 500: #a855f7
-- 600: #9333ea (Main brand color)
-- 700: #7e22ce
-
-Accent:
-- Light: #fbbf24
-- Default: #f59e0b
-- Dark: #d97706
-```
-
----
 
 ## 🛠️ Technologies Used
 
